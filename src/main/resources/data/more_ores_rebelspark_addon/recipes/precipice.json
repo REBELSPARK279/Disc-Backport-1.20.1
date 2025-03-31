@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#*#",
+    "C#O"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tuff"
+    },
+    "*": {
+      "item": "minecraft:copper_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "O": {
+      "item": "minecraft:oxidized_copper"
+    }
+  },
+  "result": {
+    "item": "disc_backport_rebelspark:precipice_music_disc",
+    "count": 1
+  }
+}

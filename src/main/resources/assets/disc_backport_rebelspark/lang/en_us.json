@@ -1,0 +1,14 @@
+{
+
+  "item.disc_backport_rebelspark.creator_music_disc": "§bMusic Disc",
+  "item.disc_backport_rebelspark.creator_music_disc.desc": "Lena Raine - Creator",
+
+  "item.disc_backport_rebelspark.creator_music_box_music_disc": "§bMusic Disc",
+  "item.disc_backport_rebelspark.creator_music_box_music_disc.desc": "Lena Raine - Creator (Music Box Version)",
+
+  "item.disc_backport_rebelspark.precipice_music_disc": "§bMusic Disc",
+  "item.disc_backport_rebelspark.precipice_music_disc.desc": "Aaron Cherof - Precipice",
+
+  "creativetab.disc_backport_rebelspark.mod_discs": "Backport Discs"
+
+}

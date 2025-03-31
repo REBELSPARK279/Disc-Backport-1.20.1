@@ -1,0 +1,30 @@
+{
+
+  "creator": {
+    "sounds": [
+      {
+        "name": "disc_backport_rebelspark:creator",
+        "stream": true
+      }
+    ]
+  },
+
+  "creator_music_box": {
+    "sounds": [
+      {
+        "name": "disc_backport_rebelspark:creator_music_box",
+        "stream": true
+      }
+    ]
+  },
+
+  "precipice": {
+    "sounds": [
+      {
+        "name": "disc_backport_rebelspark:precipice",
+        "stream": true
+      }
+    ]
+  }
+
+}

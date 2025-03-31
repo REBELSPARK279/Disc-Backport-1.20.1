@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#*#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_block"
+    },
+    "*": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "disc_backport_rebelspark:creator_music_box_music_disc",
+    "count": 1
+  }
+}
