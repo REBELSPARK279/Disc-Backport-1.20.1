@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "disc_backport_rebelspark:item/precipice_music_disc"
+  }
+}
