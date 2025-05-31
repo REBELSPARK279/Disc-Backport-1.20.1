@@ -25,7 +25,8 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(
                         ModItems.CREATOR_MUSIC_DISC.get(),
                         ModItems.CREATOR_MUSIC_BOX_MUSIC_DISC.get(),
-                        ModItems.PRECIPICE_MUSIC_DISC.get()
+                        ModItems.PRECIPICE_MUSIC_DISC.get(),
+                        ModItems.TEARS_MUSIC_DISC.get()
                 );
 
     }

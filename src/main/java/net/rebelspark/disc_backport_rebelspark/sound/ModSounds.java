@@ -16,6 +16,7 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> CREATOR = registerSoundEvents("creator");
     public static final RegistryObject<SoundEvent> CREATOR_MUSIC_BOX = registerSoundEvents("creator_music_box");
     public static final RegistryObject<SoundEvent> PRECIPICE = registerSoundEvents("precipice");
+    public static final RegistryObject<SoundEvent> TEARS = registerSoundEvents("tears");
 
 
 

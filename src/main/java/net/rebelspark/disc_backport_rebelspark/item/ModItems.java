@@ -1,5 +1,6 @@
 package net.rebelspark.disc_backport_rebelspark.item;
 
+import net.minecraft.commands.arguments.item.ItemParser;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
@@ -41,6 +42,11 @@ public class ModItems {
     public static final RegistryObject<Item> PRECIPICE_MUSIC_DISC = ITEMS.register("precipice_music_disc",
             () -> new RecordItem(13, ModSounds.PRECIPICE, new Item.Properties().stacksTo(1), 6000));
 
+    public static final RegistryObject<Item> TEARS_MUSIC_DISC = ITEMS.register("tears_music_disc",
+            () -> new RecordItem(10, ModSounds.TEARS, new Item.Properties().stacksTo(1), 3420));
+
+    public static final RegistryObject<Item> COLOUR_TESTER = ITEMS.register("colour_tester",
+            () -> new Item(new Item.Properties().stacksTo(279)));
 
 
 

@@ -25,6 +25,15 @@
         "stream": true
       }
     ]
+  },
+
+  "tears": {
+    "sounds": [
+      {
+        "name": "disc_backport_rebelspark:tears",
+        "stream": true
+      }
+    ]
   }
 
 }

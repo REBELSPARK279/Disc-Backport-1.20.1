@@ -20,6 +20,10 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.CREATOR_MUSIC_DISC);
         simpleItem(ModItems.CREATOR_MUSIC_BOX_MUSIC_DISC);
         simpleItem(ModItems.PRECIPICE_MUSIC_DISC);
+        simpleItem(ModItems.TEARS_MUSIC_DISC);
+
+
+        simpleItem(ModItems.COLOUR_TESTER);
     }
 
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {

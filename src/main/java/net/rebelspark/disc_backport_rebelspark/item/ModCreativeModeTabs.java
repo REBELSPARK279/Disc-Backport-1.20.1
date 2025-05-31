@@ -21,6 +21,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.CREATOR_MUSIC_DISC.get());
                         pOutput.accept(ModItems.CREATOR_MUSIC_BOX_MUSIC_DISC.get());
                         pOutput.accept(ModItems.PRECIPICE_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.TEARS_MUSIC_DISC.get());
 
                     })
                     .build());
